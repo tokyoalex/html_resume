@@ -1,0 +1,261 @@
+
+.truckSVG {
+
+ background: url("data:image/svg+xml;utf8,<svg height='100%' id='Layer_1' version='1.1' viewBox='0 0 24 24' width='100%' xml:space='preserve' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g><path d='M23,14l-2-4c-0.2-0.5-0.7-1-1.3-1H16c0-0.6-0.4-1-1-1H1C0.4,8,0,8.4,0,9v12c0,0.6,0.4,1,1,1h2.2c0.4,1.2,1.5,2,2.8,2   s2.4-0.8,2.8-2H16h0.2c0.4,1.2,1.5,2,2.8,2s2.4-0.8,2.8-2H23c0.6,0,1-0.4,1-1v-6C24,14.4,23.6,14,23,14z M6,23c-1.1,0-2-0.9-2-2   s0.9-2,2-2s2,0.9,2,2S7.1,23,6,23z M15,20H8.8c-0.4-1.2-1.5-2-2.8-2s-2.4,0.8-2.8,2H2v-3h13V20z M15,16H2v-6h13V16z M16,11h3.5   l1.5,3h-5V11z M19,23c-1.1,0-2-0.9-2-2s0.9-2,2-2s2,0.9,2,2S20.1,23,19,23z M22,20h-0.2c-0.4-1.2-1.5-2-2.8-2s-2.4,0.8-2.8,2H16v-5   h6V20z'/><circle cx='6' cy='21' r='1'/><circle cx='19' cy='21' r='1'/></g></svg>") no-repeat;
+  height: 60px;
+  width: 60px;
+  margin: 0 auto;
+}
+
+
+.schoolSVG {
+
+  background: url("data:image/svg+xml;utf8,<svg version='1.1' height='100%' width='100%' viewBox='0 0 32 32' xml:space='preserve' xmlns='http://www.w3.org/2000/svg'><g id='Filled'><g><polygon fill='#DDDDDD' points='23.96,14.332 23.96,6.401 16,3.003 8.04,6.401 8.04,14.332 1.209,14.332 1.209,28.997     30.791,28.997 30.791,14.332   '/></g><g><g><circle cx='16' cy='11.568' fill='#FFFFFF' r='3.519'/></g><g><path d='M16,9.049c1.389,0,2.519,1.13,2.519,2.519s-1.13,2.519-2.519,2.519c-1.389,0-2.519-1.13-2.519-2.519     S14.611,9.049,16,9.049 M16,7.049c-2.496,0-4.519,2.023-4.519,4.519s2.023,4.519,4.519,4.519c2.496,0,4.519-2.023,4.519-4.519     S18.496,7.049,16,7.049L16,7.049z'/></g></g><g><rect height='2' width='3.417' x='6.042' y='18.296'/></g><g><rect height='2' width='3.417' x='11.542' y='18.296'/></g><g><rect height='2' width='3.417' x='17.042' y='18.296'/></g><g><rect height='2' width='3.417' x='22.542' y='18.296'/></g><g><polyline fill='#FFFFFF' points='18.958,29.835 18.958,23.573 13.042,23.573 13.042,29.835   '/><polygon points='19.959,29.835 17.959,29.835 17.959,24.573 14.042,24.573 14.042,29.835 12.042,29.835 12.042,22.573     19.959,22.573   '/></g><g><polygon points='17.603,12.103 15.435,12.103 15.435,9.959 16.435,9.959 16.435,11.103 17.603,11.103   '/></g><g><path d='M16,4.115l6.611,2.822v7.259v2h2H30V28.06H2V16.196h5.389h2v-2V6.937L16,4.115 M16,1.94L7.389,5.616v8.58H0V30.06h32    V14.196h-7.389v-8.58L16,1.94L16,1.94z'/></g></g></svg>") no-repeat;
+  height: 60px;
+  width: 60px;
+  margin: 0 auto;
+}
+
+
+.planeSVG {
+  background: url("data:image/svg+xml;utf8, <svg height='100%' viewBox='0 0 48 48' width='100%' xmlns='http://www.w3.org/2000/svg'><path d='M20.36 18'/><path d='M42 32v-4l-16-10v-11c0-1.66-1.34-3-3-3s-3 1.34-3 3v11l-16 10v4l16-5v11l-4 3v3l7-2 7 2v-3l-4-3v-11l16 5z'/><path d='M0 0h48v48h-48z' fill='none'/></svg>")  no-repeat;
+  height: 60px;
+  width: 60px;
+  margin: 0 auto;
+}
+
+
+
+.gameSVG {
+
+  background: url("data:image/svg+xml;utf8,<svg height='100%' id='Capa_1' version='1.1' viewBox='0 0 30 30' width='100%' xml:space='preserve' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><path d='M14.7,11.7c0.4,0,0.8-0.3,0.8-0.8c0-0.8,0.8-1.6,1.7-2.5c1-1,2.2-2.1,2.2-3.7c0-1.1-0.6-2.2-1.8-3.4  c-0.3-0.3-0.8-0.3-1.1,0c-0.3,0.3-0.3,0.8,0,1.1c0.9,0.9,1.3,1.7,1.3,2.3c0,0.9-0.8,1.7-1.7,2.6c-1,1-2.1,2.1-2.1,3.6  C14,11.3,14.3,11.7,14.7,11.7z M7.2,16.1c-1.7,0-3.1,1.4-3.1,3.1s1.4,3.1,3.1,3.1c1.7,0,3.1-1.4,3.1-3.1S9,16.1,7.2,16.1z M7.2,20.9  c-0.9,0-1.6-0.7-1.6-1.6s0.7-1.6,1.6-1.6c0.9,0,1.6,0.7,1.6,1.6S8.1,20.9,7.2,20.9z M25.9,17.5h-1v-1c0-0.4-0.3-0.8-0.8-0.8h-2.2  c-0.4,0-0.8,0.3-0.8,0.8v1h-1c-0.4,0-0.8,0.3-0.8,0.8v2.2c0,0.4,0.3,0.8,0.8,0.8h1v1c0,0.4,0.3,0.8,0.8,0.8h2.2  c0.4,0,0.8-0.3,0.8-0.8v-1h1c0.4,0,0.8-0.3,0.8-0.8v-2.2C26.6,17.8,26.3,17.5,25.9,17.5z M25.1,19.7h-1c-0.4,0-0.8,0.3-0.8,0.8v1  h-0.7v-1c0-0.4-0.3-0.8-0.8-0.8h-1V19h1c0.4,0,0.8-0.3,0.8-0.8v-1h0.7v1c0,0.4,0.3,0.8,0.8,0.8h1V19.7z M23.5,12.4h-17  c-2.6,0-6.4,2.7-6.4,7.4v2.5c0,3.1,1.3,6.5,4.9,6.5c3.9,0,7.2-4.6,8.1-6h3.9c0.9,1.4,4.2,6,8.1,6c3.6,0,4.9-3.4,4.9-6.5v-2.5  C29.9,15,26.1,12.4,23.5,12.4z M28.4,22.4c0,1.5-0.3,5-3.4,5c-3.7,0-7-5.5-7-5.6c-0.1-0.2-0.4-0.4-0.6-0.4h-4.7  c-0.3,0-0.5,0.1-0.6,0.4c0,0.1-3.4,5.6-7,5.6c-3,0-3.4-3.5-3.4-5v-2.5c0-4,3.1-5.9,4.9-5.9h17c1.7,0,4.9,2,4.9,5.9V22.4z' fill='#262324'/></svg>") no-repeat;
+  height: 60px;
+  width: 60px;
+  margin: 0 auto;
+}
+
+
+
+.callcenterSVG {
+  background: url("data:image/svg+xml;utf8,<svg height='100%' viewBox='0 0 48 48' width='100%' xmlns='http://www.w3.org/2000/svg'><path d='M0 0h48v48h-48z' fill='none' opacity='.1'/><path d='M24 2c-9.94 0-18 8.06-18 18v14c0 3.31 2.69 6 6 6h6v-16h-8v-4c0-7.73 6.27-14 14-14s14 6.27 14 14v4h-8v16h8v2h-14v4h12c3.31 0 6-2.69 6-6v-20c0-9.94-8.06-18-18-18z'/></svg>") no-repeat;
+  height: 60px;
+  width: 60px;
+  margin: 0 auto;
+}
+
+
+
+.bankSVG {
+
+  background: url("data:image/svg+xml;utf8,<svg height='100%' id='bankLayer_1' version='1.1' viewBox='0 0 48 48' width='100%' xml:space='preserve' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><path clip-rule='evenodd' d='M46,44.438H2c-0.553,0-1-0.447-1-1s0.447-1,1-1h44c0.553,0,1,0.447,1,1  S46.553,44.438,46,44.438z M16,34.438c0.553,0,1,0.447,1,1s-0.447,1-1,1H8c-0.553,0-1-0.447-1-1s0.447-1,1-1h1v-13H8  c-0.553,0-1-0.447-1-1c0-0.552,0.447-1,1-1h8c0.553,0,1,0.448,1,1c0,0.553-0.447,1-1,1h-1v13H16z M13,21.438h-2v13h2V21.438z   M28,34.438c0.553,0,1,0.447,1,1s-0.447,1-1,1h-8c-0.553,0-1-0.447-1-1s0.447-1,1-1h1v-13h-1c-0.553,0-1-0.447-1-1  c0-0.552,0.447-1,1-1h8c0.553,0,1,0.448,1,1c0,0.553-0.447,1-1,1h-1v13H28z M25,21.438h-2v13h2V21.438z M44,39.438  c0,0.553-0.447,1-1,1H5c-0.553,0-1-0.447-1-1s0.447-1,1-1h38C43.553,38.438,44,38.885,44,39.438z M40,34.438c0.553,0,1,0.447,1,1  s-0.447,1-1,1h-8c-0.553,0-1-0.447-1-1s0.447-1,1-1h1v-13h-1c-0.553,0-1-0.447-1-1c0-0.552,0.447-1,1-1h8c0.553,0,1,0.448,1,1  c0,0.553-0.447,1-1,1h-1v13H40z M37,21.438h-2v13h2V21.438z M3,15.438L24,4l21,11.438v2H3V15.438z M40.541,15.438L24,6.886  L7.396,15.438H40.541z' fill-rule='evenodd'/></svg>") no-repeat;
+  height: 60px;
+  width: 60px;
+  margin: 0 auto;
+}
+
+
+.beachHotelSVG {
+  background: url("data:image/svg+xml;utf8, <svg version='1.1' viewBox='0 0 32 32' xml:space='preserve' xmlns='http://www.w3.org/2000/svg'><g id='Glyph'><g><path d='M30.685,17.985l-7.141,6.223H13.072l3.171-12.059l13.87,3.518C29.917,8.642,25.123,2.311,17.975,0.498    C16.647,0.161,15.317,0,14.007,0C8.268,0,2.941,3.095,0.074,8.047l14.231,3.61l-3.3,12.55H4.431l-4.43,5.813l1.59,1.213    l3.83-5.026h5.057l-1.126,4.281l1.934,0.508l1.259-4.789h10.811l3.011,4.94l1.707-1.041l-2.863-4.699l6.788-5.915L30.685,17.985z     M8.846,8.988c1.708-2.687,6.023-8.235,9.344-7.459c4.228,0.985,4.32,8.873,4.272,10.912L8.846,8.988z'/></g></g></svg>")  no-repeat;
+  height: 60px;
+  width: 60px;
+  margin: 0 auto;
+}
+
+
+.stockSVG {
+  background: url("data:image/svg+xml;utf8, <svg fill='#000000' height='100%' viewBox='0 0 24 24' width='100%' xmlns='http://www.w3.org/2000/svg'><path d='M3.5 18.49l6-6.01 4 4L22 6.92l-1.41-1.41-7.09 7.97-4-4L2 16.99z'/><path d='M0 0h24v24H0z' fill='none'/></svg>")  no-repeat;
+  height: 15px;
+  width: 15px;
+  display: inline-block;
+  
+}
+
+
+.stockUp  { color : green; }
+.stockDown  { color : red; }
+
+.stockDatetime { 
+  font-size: xx-small;
+  text-align: right;
+}
+
+body#bodyMain {
+  font-family:  'calibri';
+}
+
+
+div.summaryView {      
+  float: left;
+  height: 100%;
+  width: 30%;
+}
+
+div.mainView { 
+  float: right;     
+  height: 100%;
+}
+
+div.bootstrapNoBorders  {
+  border:0;
+  box-shadow: none;
+  border-width: 0px;
+  border-height: 0px;
+}
+
+p {
+  font-family: 'calibri';
+}
+
+p.jobProfile {
+  text-indent:5px;      
+  font-size: 16px;
+}
+
+p.companyProfile {
+  text-indent:5px;      
+  font-size: 16px;
+}
+
+  
+p.companyResponsibilties {
+  text-indent:5px;      
+  font-size: 16px;
+}
+
+h5.projectTitle {      
+  font-weight: 700;
+}
+
+div.profileGeneral {
+  font-family: 'calibri';
+}
+
+
+h4.companySectionTitle {
+  font-style:italic;
+  font-size: 16px;
+}
+
+/*bootstrap carousel*/
+
+.multi-item-carousel{
+  .carousel-inner{   
+
+    > .item{
+      transition: 500ms ease-in-out left;
+    }
+    .active{
+      &.left{
+        left:-33%;
+      }
+      &.right{
+        left:33%;
+      }
+    }
+    .next{
+      left: 33%;
+    }
+    .prev{
+      left: -33%;
+  }
+  @media all and (transform-3d), (-webkit-transform-3d) {
+    > .item{
+      // use your favourite prefixer here
+      transition: 1000ms ease-in-out left;
+      transition: 1000ms ease-in-out all;
+      backface-visibility: visible;
+      transform: none!important;
+      }
+    }
+  } 
+}
+
+.carousel-inner{
+  max-height: 125px !important; 
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
+.carousel-control.right, .carousel-control.left { 
+  opacity:0.2 !important;
+  color:black;
+}
+
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+    
+    font-family:    calibri;
+    font-size:      1em;
+    color:          black !important;
+    bottom: 30px;
+}
+
+.carousel-link {
+    text-decoration:none !important;
+    cursor:pointer;
+}
+
+
+
+
+  /*note margin 0 seems to be important for the menu bar icons being center justified*/
+body {margin:0;}
+
+
+.icon-bar {
+width: 100%;
+text-align: center;
+
+overflow: auto;
+}
+
+.icon-bar a {
+    width: 25%;
+    padding: 12px 0;
+    float: left;
+    transition: all 0.3s ease;
+    
+}
+
+.icon-bar a:hover {
+    background-color: #f5f5f5;
+}
+
+// subclassed this as it conflicts with bootstraps active class
+.icon-bar .active {
+    background-color: #337ab7 !important;
+}
+
+@media (max-width: 768px) {
+  .nav-justified > li {
+    display: table-cell;
+    width: 1%;
+  }
+  .nav-justified > li > a  {
+    border-bottom: 1px solid #ddd !important;
+    border-radius: 4px 4px 0 0 !important;
+    margin-bottom: 0 !important;
+  }
+}
+
+@media print {
+
+ p.jobProfile {
+    text-indent:5px;      
+    font-size: 10px;
+    color: red;
+  }
+
+  p.companyProfile {
+    text-indent:5px;      
+    font-size: 10px;
+    color: red;
+  }
+ 
+}
+
+
